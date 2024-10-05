@@ -15,7 +15,7 @@ A shallow-water propagator program written in C++ that provides visual showcase 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
+    https://github.com/Ave04/Wave-Propagator.git
     ```
 
 2. Navigate to the project directory:
@@ -23,20 +23,10 @@ A shallow-water propagator program written in C++ that provides visual showcase 
     cd your-repo-name
     ```
 
-3. Install the necessary dependencies:
-    - If your project uses Python:
-      ```bash
-      pip install -r requirements.txt
-      ```
-    - If you're using Node.js:
-      ```bash
-      npm install
-      ```
 
 ## Usage
 
-Provide detailed instructions on how to use the project.
+Enter values of dt, T, Nx, Ny and ic (test case to be used) in the commandline.
+Run main.cpp
+Using the Output.txt generated plot the graphs in MATLAB or any other graphing tool
 
-For example, if it's a command-line tool:
-```bash
-python your_script.py --option
