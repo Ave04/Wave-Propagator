@@ -26,15 +26,15 @@ A shallow-water propagator program written in C++ that provides visual showcase 
 
 ## Usage
 
-Enter values of dt, T, Nx, Ny and ic (test case to be used) in the commandline.
-Run main.cpp.
-Using the Output.txt generated plot the graphs in MATLAB or any other graphing tool.
+1. Enter values of dt, T, Nx, Ny and ic (test case to be used) in the commandline.
+2. Run main.cpp.
+3. Using the Output.txt generated plot the graphs in MATLAB or any other graphing tool.
 
 ## Features
 
-Object-oriented: Separate class created for shallowwater which includes member functions for discretisation and time integration of PDEs as well as for writing output to txt file.
-Parallelised: OpenMP included to optimise runtime by parallelising bulk of operations.
-Blas implementation: BLAS version of code included but not used as it does not perform as well as the parallelised loop-based approach.
+1. Object-oriented: Separate class created for shallowwater which includes member functions for discretisation and time integration of PDEs as well as for writing output to txt file.
+2. Parallelised: OpenMP included to optimise runtime by parallelising bulk of operations.
+3. Blas implementation: BLAS version of code included but not used as it does not perform as well as the parallelised loop-based approach.
 
 ## Contributions
 
@@ -59,6 +59,6 @@ Contributions are welcome! Please follow these steps:
 This project was licensed by Imperial College London
 
 ## Contact
-Name: Ave
-Email: avish.madhow@gmail.com
-LinkedIn: https://www.linkedin.com/in/avish01/
+1. Name: Ave
+2. Email: avish.madhow@gmail.com
+3. LinkedIn: https://www.linkedin.com/in/avish01/
