@@ -49,10 +49,11 @@ Contributions are welcome! Please follow these steps:
    ```bash
    git commit -m 'Add your feature'
    ```
-4. Push to the branch ```bash
+4. Push to the branch
+   ```bash
    git push origin feature/your-feature
    ```
-5. Open a pull request.
+6. Open a pull request.
 
 ## License
 This project was licensed by Imperial College London
