@@ -1,0 +1,151 @@
+commit 970cea921ab8a6c80f973bea135f904a452ea2b2
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Wed Mar 22 22:58:05 2023 +0000
+
+    FINAL WORKING CODE
+
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	main.cpp
+M	repository.log
+
+commit ab4275844e56e8f5539e12004f99503069e06a19
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Sun Mar 19 07:28:55 2023 +0000
+
+    Change indices and corrected typos
+
+M	ShallowWater.cpp
+M	ShallowWater.h
+M	main.cpp
+M	repository.log
+
+commit cb425d8330e2c7b9c33220591d1b0953fccb5e70
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Sun Mar 19 07:18:27 2023 +0000
+
+    Corrected storage to proper column major
+
+A	ShallowWater.cpp
+A	ShallowWater.h
+A	repository.log
+
+commit 5b42bb34718915a67de4c5d1ac099cb7d05974c4
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Sun Mar 19 04:50:08 2023 +0000
+
+    fixed spatialderivative calc
+
+M	main.cpp
+
+commit 9ffd6fd337df954a178b9019f564b7f64a76003c
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Sun Mar 19 02:35:41 2023 +0000
+
+    ran first test without makefile
+
+M	main.cpp
+
+commit 28f18c913559e9cf547cb9a527433fc05a195f76
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Sun Mar 19 01:51:49 2023 +0000
+
+    corrections to rk4 made
+
+M	main.cpp
+
+commit 56b13853d624e62a095a1a720056b3ecfed986fe
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Sat Mar 18 16:20:54 2023 +0000
+
+    Corrected RK4
+
+M	main.cpp
+
+commit 8bf8d81f61b42bafe631fe2bd6de7e96c29376ef
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Fri Mar 17 18:12:18 2023 +0000
+
+    Checked RK4 and found logical mistake
+
+M	main.cpp
+
+commit 87622c79b18f4cf604b79b71563d81483f1a76d9
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Fri Mar 17 01:48:41 2023 +0000
+
+    separated class and functions into header files
+
+M	main.cpp
+
+commit 1cbd9994283b0fe535cccfe316ebb37c85d31536
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Fri Mar 17 00:07:11 2023 +0000
+
+    Wrote Main function to run
+
+M	main.cpp
+
+commit 990349b91177a53fafb4c448b20347263ce9b94e
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Thu Mar 16 22:32:58 2023 +0000
+
+    Commands for parsing variables and Writing to file added
+
+M	main.cpp
+
+commit 0f61107500c524a5060392687eab46911de0ba73
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Wed Mar 15 23:10:16 2023 +0000
+
+    Finalised first version of RK4, not tested yet
+
+M	main.cpp
+
+commit 067cc3406a4e32021c2a769c63edd90a4295ea7e
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Wed Mar 15 22:36:49 2023 +0000
+
+    ensuring no errors when building
+
+M	main.cpp
+
+commit 4bbc6e234d9aa2dd7018aa3217e60bf902164b4e
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Wed Mar 15 03:22:00 2023 +0000
+
+    finalised discretisation functions
+
+M	main.cpp
+
+commit 20cffe9a78285c12365fcea501eda968a98f2a94
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Wed Mar 15 01:59:29 2023 +0000
+
+    modified necessary functions
+
+M	main.cpp
+
+commit 56d1228952a21c4db65f6346f37b666c1e23ef3b
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Wed Mar 15 01:21:53 2023 +0000
+
+    col major format
+
+M	main.cpp
+
+commit ab54a36b60b32e9450e1adced9760519f0e80763
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Tue Mar 14 02:41:52 2023 +0000
+
+    added functions
+
+M	main.cpp
+
+commit 396bbdaef4cab18aec3475136efeaaffb7ea1f4d
+Author: Avish Madhow <am3220@spitfire.ae.ic.ac.uk>
+Date:   Mon Mar 13 02:25:07 2023 +0000
+
+    Created main file.
+
+A	main.cpp
